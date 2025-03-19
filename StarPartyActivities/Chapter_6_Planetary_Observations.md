@@ -101,6 +101,3 @@ Planets will appear as small, bright disks instead of points of light like stars
 - Jupiter illustration showing cloud bands, the GRS, and moon arrangements.
 - Saturn’s ring system and moons visible in small telescopes.
 
----
-
-Please review this detailed chapter. If there are adjustments or additions required, kindly let me know. If all looks good, we can continue to the next chapter.
