@@ -101,3 +101,4 @@ Planets will appear as small, bright disks instead of points of light like stars
 - Jupiter illustration showing cloud bands, the GRS, and moon arrangements.
 - Saturn’s ring system and moons visible in small telescopes.
 
+*Next: [Chapter 7: Deep-Sky Object Catalogs](Chapter_7_Deep_Sky_Object_Catalogs.md)*
