@@ -78,4 +78,4 @@ At 13°N latitude, you can enjoy several bright southern objects:
 
 ---
 
-*Next: [Observation Logging & Astro Sketching](Chapter_8.md)*
+*Next: [Observation Logging & Astro Sketching](Chapter_8_Observation_Logging_Astro_Sketching.md)*
