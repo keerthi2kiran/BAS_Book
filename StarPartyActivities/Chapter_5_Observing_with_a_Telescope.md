@@ -80,5 +80,5 @@ With your 8” telescope, a new universe awaits your exploration!
 
 ---
 
-*Next: [Observation Logging & Astro Sketching](Chapter_6.md)*
+*Next: [Observation Logging & Astro Sketching](Chapter_6_Observation_Logging_Astro_Sketching.md)*
 
