@@ -66,4 +66,4 @@ Sketching helps **train your eye** to see fine details at the eyepiece.
 
 ---
 
-*Next: [Techniques for Enhancing Observations](Chapter_7.md)*
+*Next: [Techniques for Enhancing Observations](Chapter_7_Techniques_for_Enhancing_Observations.md)*
