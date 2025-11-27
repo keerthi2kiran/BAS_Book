@@ -1,4 +1,4 @@
-# Chapter 11: Challenges & Activities for the Night
+  # Chapter 11: Challenges & Activities for the Night
 
 These structured challenges and activities are designed to enrich your star party experience. Completing these activities will help you become a confident amateur astronomer.
 
@@ -118,4 +118,4 @@ Share mythological stories related to major constellations:
 
 ---
 
-*Next: [Closing Notes & Additional Resources](Chapter_12.md)*
+*Next: [Closing Notes & Additional Resources](Chapter_12_Closing_Notes_Resources.md)*
