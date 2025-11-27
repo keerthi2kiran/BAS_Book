@@ -1,4 +1,4 @@
-# Chapter 5: Observation Logging & Astro Sketching
+# Chapter 6: Observation Logging & Astro Sketching
 
 Recording your observations is an essential skill in astronomy. Keeping a log helps track celestial objects, sky conditions, and improvements in your observing skills.
 
