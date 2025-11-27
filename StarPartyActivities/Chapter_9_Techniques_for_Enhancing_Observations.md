@@ -123,4 +123,4 @@ Your eyes need 20-30 minutes to adapt to darkness fully.
 
 ---
 
-*Next: [Identifying Directions & Finding the Pole Star](Chapter_10.md)*
+*Next: [Identifying Directions & Finding the Pole Star](Chapter_10_Identifying_Directions_Pole_Star.md)*
