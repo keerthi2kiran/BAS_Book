@@ -102,4 +102,4 @@ Select a bright, structured object (e.g., the Moon, Jupiter with moons, or Orion
 
 ---
 
-*Next: [Techniques for Enhancing Observations](Chapter_9.md)*
+*Next: [Techniques for Enhancing Observations](Chapter_9_Techniques_for_Enhancing_Observations.md)*
