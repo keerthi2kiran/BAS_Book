@@ -80,4 +80,4 @@ Binoculars are a great tool for stargazing. They offer a **wide field of view**,
 
 ---
 
-*Next: [Observing with a Telescope](Chapter_5.md)*
+*Next: [Observing with a Telescope](Chapter_5_Observing_with_a_Telescope.md)*
