@@ -82,5 +82,5 @@ With these basics, you're ready to confidently explore and navigate the night sk
 
 ---
 
-*Next: [Observing with the Naked Eye](Chapter_3.md)*
+*Next: [Observing with the Naked Eye](Chapter_3_Observing_with_the_Naked_Eye.md)*
 
