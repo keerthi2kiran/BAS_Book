@@ -90,5 +90,5 @@ Your naked eyes are powerful tools to experience the wonders of the night sky fi
 
 ---
 
-*Next: [Observing with Binoculars](Chapter_4.md)*
+*Next: [Observing with Binoculars](Chapter_4_Observing_with_Binoculars.md)*
 
