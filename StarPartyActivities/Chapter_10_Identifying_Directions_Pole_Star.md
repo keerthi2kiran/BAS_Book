@@ -70,4 +70,4 @@ Due to Earth's axial precession (slow wobble), the pole star changes over thousa
 
 ---
 
-*Next: [Challenges & Activities for the Star Party](Chapter_11.md)*
+*Next: [Challenges & Activities for the Star Party](Chapter_11_Challenges_Activities.md)*
