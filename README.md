@@ -71,4 +71,4 @@ With these tips in mind, you're ready to start exploring the universe. Enjoy you
 
 ---
 
-*Next: [Understanding the Night Sky](Chapter_2_Understanding_the_Night_Sky.md)*
+*Next: [Understanding the Night Sky](StarPartyActivities/Chapter_2_Understanding_the_Night_Sky.md)*
